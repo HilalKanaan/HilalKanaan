@@ -6,11 +6,11 @@ Final-year Computer Science student (AI track) at Beirut Arab University, gradua
 
 #### 🛠 What I work with
 
-**Languages:** TypeScript, JavaScript, Python, SQL  
+**Languages:** Java,TypeScript, JavaScript, Python, SQL  
 **Frontend:** Next.js, React, Tailwind  
 **Backend:** Node.js, Express, REST APIs  
 **AI / ML:** OpenAI API, Gemini API, RAG pipelines  
-**Data:** PostgreSQL, MSSQL  
+**Data:** PostgreSQL, MSSQL, Firebase  
 **Infra:** Docker, GCP, Vercel, GitHub Actions (CI/CD)
 
 ---
